@@ -1,0 +1,20 @@
+/* recent-activities.css */
+
+.recent-activities ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .recent-activities li {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 0;
+    border-bottom: 1px solid #4b5563;
+  }
+  
+  .activity-icon {
+    font-size: 24px;
+  }
+  

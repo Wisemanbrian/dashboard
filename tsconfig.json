@@ -21,6 +21,6 @@
       "@/*": ["./src/*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "src/app/tryme/page.tsx", "src/app/components/Chart.tsx", "src/app/components/Header.tsx", "src/app/components/Sidebar.tsx", "src/app/layout.js", "src/app/page.js", "src/app/components/Dashboard.tsx"],
   "exclude": ["node_modules"]
 }
